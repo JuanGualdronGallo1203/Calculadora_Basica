@@ -6,6 +6,9 @@
 3. **Estructura del Proyecto**: Es proyecto se encuentra modulado.
 4. **Hecho por**: Juan sebastian Gualdron Gallo.
 5. **Estado del commit**: Completo
+6. Instalacion: Clona este repositorio
+
+
 
 ---
 
