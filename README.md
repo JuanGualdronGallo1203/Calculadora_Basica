@@ -9,9 +9,6 @@
 
 ---
 
-### Ejemplo Adaptado
-
-Si tu proyecto es la **Calculadora Modular** que creamos anteriormente, podrías adaptar la plantilla así:
 
 ```markdown
 # Calculadora Modular
